@@ -32,7 +32,9 @@ public  class EasyMaths {
             }
         }
 
+        int i=0;
         return true;
+        
     }
 
     /**
